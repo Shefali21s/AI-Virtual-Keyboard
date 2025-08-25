@@ -193,13 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MediaPipe](https://mediapipe.dev/) for the hand tracking models
 - [pynput](https://pypi.org/project/pynput/) for system-level input control
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/your-username/virtual-ai-keyboard/issues) page
-2. Create a new issue with detailed information
-3. Email us at support@virtualkeyboard.com
 
 ## 📊 Version History
 
