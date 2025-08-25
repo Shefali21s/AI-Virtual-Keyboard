@@ -1,5 +1,5 @@
 # AI-Virtual-Keyboard
-# Virtual AI Keyboard
+
 
 A gesture-based virtual keyboard that allows you to type using hand gestures captured via webcam. This innovative application uses computer vision to detect finger movements and translates them into keyboard inputs.
 
